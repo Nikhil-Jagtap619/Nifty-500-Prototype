@@ -1,5 +1,7 @@
 # 📉 Gap Down Recovery Trading Strategy – Python Backtest (5-Year Data)
 
+https://nifty-500-prototype.streamlit.app/
+
 ![IBM words previous week](https://github.com/Nikhil-Jagtap619/Nifty-500-Prototype/blob/main/Screenshot%202025-06-19%20162401.png)
 
 This project simulates a simple **price-action-based trading strategy** on Indian stocks (e.g., TCS) using **5 years of historical stock data**.

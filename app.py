@@ -3,6 +3,7 @@ import streamlit as st
 import pandas as pd
 import yfinance as yf
 
+
 nifty_list = pd.read_csv("ind_nifty500list.csv")
 
 
